@@ -1,4 +1,8 @@
 public class person
 {
+  List<String> list=new ArrayList<>();
+        list.add("sunny");
+         list.add("Rasmika");
+         list.add("kajal");
 
 }
