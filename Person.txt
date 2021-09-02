@@ -1,8 +1,15 @@
 public class person
 {
+
   Map<Integer,String> map=new Hasmap<Integer,String>();
   map.put(100,"Rasmika");
   map.put(200,"sunny");
   map.put(300,"annaya");
+
+  List<String> list=new ArrayList<>();
+        list.add("sunny");
+         list.add("Rasmika");
+         list.add("kajal");
+
 
 }
